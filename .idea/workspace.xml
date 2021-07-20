@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="046c0726-2f06-4c75-83c1-63409ab9fa4c" name="Default Changelist" comment="" />
+    <list default="true" id="046c0726-2f06-4c75-83c1-63409ab9fa4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.scss" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/index.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="1802">
+              <caret line="106" column="1" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -60,6 +66,9 @@
       <find>mt-4</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -76,6 +85,7 @@
     <option name="width" value="1382" />
     <option name="height" value="736" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -108,6 +118,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/fonts" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
@@ -147,12 +158,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626777343895</updated>
-      <workItem from="1626777347997" duration="7443000" />
+      <workItem from="1626777347997" duration="7736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7443000" />
+    <option name="totallyTimeSpent" value="7736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="736" extended-state="6" />
@@ -215,8 +226,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="1802">
+          <caret line="106" column="1" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
         </state>
       </provider>
     </entry>
